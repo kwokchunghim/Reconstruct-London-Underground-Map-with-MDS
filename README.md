@@ -1,6 +1,6 @@
 # Reconstruct-London-Underground-Map-with-MDS
 
-In this mini-project, we demonstrate a reconstruction of a London Underground map using a statistical technique called Multidimensional Scaling (MDS). 
+In this mini-project, we demonstrate a reconstruction of a London Underground map using a statistical technique called Multidimensional Scaling (MDS). [1] 
 
 MDS is essentially a dimensional reduction technique which is a generalisation of Principal Component Analysis (PCA) to arbitary dissimilarity matrices between point vectors. 
 
@@ -10,7 +10,7 @@ The travelling time data between 10 London Underground stations were collected o
 
 After constructing the dissimilarity matrix on a spreadsheet, we loaded the data into a Jupyter Notebook with Pandas and transformed it into a NumPy array. 
 
-We then applied the MDS function in the Python Scikit-learn package and plotted the result with Matplotlib.
+We then applied the MDS function in the Python Scikit-learn package and plotted the result with Matplotlib. [2]
 
 The result is interesting and in some ways, surpring. Despite that we are not trying to 'replicate' the original map, it is intuitive to compare our 'map' with the original London map.
 
