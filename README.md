@@ -15,3 +15,7 @@ We then applied the MDS function in the Python Scikit-learn package and plotted 
 The result is interesting and in some ways, surpring. Despite that we are not trying to 'replicate' the original map, it is intuitive to compare our 'map' with the original London map.
 
 We found that the MDS reconstruction correctly indicates the location of Heathrow and West Croyden, which happen to be further away from the rest of the 
+
+References
+[1] Kruskal, J. B., &amp; Wish, M. (2009). Multidimensional scaling. Newbury Park, Calif: Sage Publ.
+[2] Sklearn.manifold.MDS. (n.d.). Retrieved December 21, 2022, from https://scikit-learn.org/stable/modules/generated/sklearn.manifold.MDS.html
